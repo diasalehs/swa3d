@@ -22,15 +22,9 @@
                 <div class="form-group">
                     <div class="input-group mb-2 mr-sm-2 mb-sm-0">
                         <div class="input-group-addon" style="width: 2.6rem"><i class="fa fa-user"></i></div>
-<<<<<<< HEAD
-                        <input type="text" name="name" class="form-control" id="name"
-                               placeholder="Your Name" required >
-                    
-=======
 
                         <input type="text" name="nameInEnglish" class="form-control" id="name"
                                placeholder="Your Name" required autofocus>
->>>>>>> 2cac9107e7f160e4b475c5fd30de8a0bc251bc92
                     </div>
                 </div>
             </div>
@@ -93,15 +87,10 @@
                 <div class="form-group">
                     <div class="input-group mb-2 mr-sm-2 mb-sm-0">
                         <div class="input-group-addon" style="width: 2.6rem"><i class="fa fa-user"></i></div>
-<<<<<<< HEAD
-                        <input type="text" name="city" class="form-control" id="city"
-                               placeholder="Your City" required >
-                       
-=======
+
 
                         <input type="text" name="cityName" class="form-control" id="city"
                                placeholder="Your City" required autofocus>
->>>>>>> 2cac9107e7f160e4b475c5fd30de8a0bc251bc92
                     </div>
                 </div>
             </div>
@@ -165,14 +154,9 @@
                 <div class="form-group">
                     <div class="input-group mb-2 mr-sm-2 mb-sm-0">
                         <div class="input-group-addon" style="width: 2.6rem"><i class="fa fa-user"></i></div>
-<<<<<<< HEAD
-                        <input type="text" name="name" class="form-control" id="name"
-                               placeholder="Your Name" required >
-                     
-=======
+
                         <input type="text" name="namemm" class="form-control" id="name"
                                placeholder="Your Name" required autofocus>
->>>>>>> 2cac9107e7f160e4b475c5fd30de8a0bc251bc92
                     </div>
                 </div>
             </div>
