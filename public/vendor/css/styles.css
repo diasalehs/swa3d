@@ -1,0 +1,168 @@
+
+
+body {
+    
+}
+
+@media (min-width: 992px) {
+    body {
+
+    }
+}
+.container-fluid{
+		padding: 0 75px;
+}
+.navbar{
+		z-index: 3;
+		padding-top: 17px;
+		padding-bottom: 17px;
+		position: fixed;
+		top: 4px;
+}
+#navtop{
+		display: block;
+		position: fixed;
+		height: 4px;
+		background-color: #1ab08b;
+		width: 100%;
+		z-index: 44;
+		top: 0;
+}
+.head{
+		display: block;
+		height: 100vh;
+		width: 100%;
+		background-repeat:no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+		color: white;
+		padding-top: 130px;
+		border-radius: 0;
+		padding-bottom: 0px;
+		margin-bottom: 0px;
+}
+.title{
+		color: #fdf092;
+		padding-top: 110px;
+
+}
+.my-4{
+		background-color: white;
+}
+.logo{
+		height: 120px;
+		
+}
+.bv{
+		padding: 14px 80px;
+		background-color: rgba(255,255,255,0);
+		border: 5px solid #1ab08b;
+		width: 300px;
+		display: inline-block !important;
+		color: #1ab08b;
+}
+.bv:hover{
+		padding: 14px 80px;
+		background-color: #1ab08b;
+		width: 300px;
+		border: 5px solid #1ab08b;
+		
+}
+.navbar-brand{
+		color: #1ab08b !important;
+}
+.donate-btn{
+		margin-left: 30px;
+		background-color: #fdf092;
+		border-color: #fdf092;
+		height: auto;
+		width: 300px;
+		padding: 14px 80px;
+    color: #4a464c;
+		border: 5px solid #fdf092;
+
+}
+.donate-btn:hover{
+		margin-left: 30px;
+		background-color: rgba(255,255,255,0);;
+		border-color: #fdf092;
+    color: #fdf092;
+		border: 5px solid #fdf092;
+
+}
+.btn{
+		border-radius: 200px !important;
+
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.sign-in-btn{
+	background-color: #1ab08b;
+	border-color: #1ab08b;
+}
+.search {
+    width: 41px !important;
+    border-radius: 0;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+		position: relative;
+    top: 3px;
+		cursor: pointer;
+		background-color: #f7f7f7;
+		border-radius: 300px !important;
+		border: 0;
+}
+
+.search:focus {
+    width: 300px !important;
+    border-color: #1ab08b;
+    border: 2px solid;
+    color: #1ab08b;
+		top: 0px;
+
+}
+
+.news{
+		height: 100vh;
+		padding-top: 1px;
+}
+.section-title{
+		padding-top: 20px;
+		padding-bottom: 20px;
+		color: #1ab08b;
+}
+.researchs{
+	
+}
