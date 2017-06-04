@@ -22,13 +22,9 @@
                 <div class="form-group">
                     <div class="input-group mb-2 mr-sm-2 mb-sm-0">
                         <div class="input-group-addon" style="width: 2.6rem"><i class="fa fa-user"></i></div>
-<<<<<<< HEAD
-                        <input type="text" name="name" class="form-control" id="name"
-                               placeholder="Your Name" required >
-=======
+
                         <input type="text" name="nameInEnglish" class="form-control" id="name"
                                placeholder="Your Name" required autofocus>
->>>>>>> 69f3e4ef4783be660783276f0a98dc0c11675e28
                     </div>
                 </div>
             </div>
@@ -91,13 +87,9 @@
                 <div class="form-group">
                     <div class="input-group mb-2 mr-sm-2 mb-sm-0">
                         <div class="input-group-addon" style="width: 2.6rem"><i class="fa fa-user"></i></div>
-<<<<<<< HEAD
-                        <input type="text" name="city" class="form-control" id="city"
-                               placeholder="Your City" required >
-=======
+
                         <input type="text" name="cityName" class="form-control" id="city"
                                placeholder="Your City" required autofocus>
->>>>>>> 69f3e4ef4783be660783276f0a98dc0c11675e28
                     </div>
                 </div>
             </div>
@@ -161,13 +153,8 @@
                 <div class="form-group">
                     <div class="input-group mb-2 mr-sm-2 mb-sm-0">
                         <div class="input-group-addon" style="width: 2.6rem"><i class="fa fa-user"></i></div>
-<<<<<<< HEAD
-                        <input type="text" name="name" class="form-control" id="name"
-                               placeholder="Your Name" required >
-=======
                         <input type="text" name="namemm" class="form-control" id="name"
                                placeholder="Your Name" required autofocus>
->>>>>>> 69f3e4ef4783be660783276f0a98dc0c11675e28
                     </div>
                 </div>
             </div>
