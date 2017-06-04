@@ -11,6 +11,10 @@
 |
 */
 
-Route::get('/', function () {
+Route::get('/', array('as' => 'main', function() {
     return view('main');
-});
+}));
+Route::get('/signup', array('as' => 'signup', function()
+{
+    return view('signup');
+}));

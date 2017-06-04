@@ -12,7 +12,7 @@
              <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
             <p></p>
             <p class="lead">
-                <a class="btn btn-primary btn-lg bv" href="#" role="button">JOIN US</a>
+                <a class="btn btn-primary btn-lg bv" href="{{ route('signup') }}" role="button">JOIN US</a>
                 <a class="btn btn-primary btn-lg donate-btn" href="#" role="button">DONATE NOW</a>
             </p>
             
