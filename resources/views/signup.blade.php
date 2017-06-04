@@ -23,7 +23,7 @@
                     <div class="input-group mb-2 mr-sm-2 mb-sm-0">
                         <div class="input-group-addon" style="width: 2.6rem"><i class="fa fa-user"></i></div>
                         <input type="text" name="name" class="form-control" id="name"
-                               placeholder="Your Name" required autofocus>
+                               placeholder="Your Name" required >
                     </div>
                 </div>
             </div>
@@ -45,7 +45,7 @@
                     <div class="input-group mb-2 mr-sm-2 mb-sm-0">
                         <div class="input-group-addon" style="width: 2.6rem"><i class="fa fa-at"></i></div>
                         <input type="text" name="email" class="form-control" id="email"
-                               placeholder="you@example.com" required autofocus>
+                               placeholder="you@example.com" required >
                     </div>
                 </div>
             </div>
@@ -87,7 +87,7 @@
                     <div class="input-group mb-2 mr-sm-2 mb-sm-0">
                         <div class="input-group-addon" style="width: 2.6rem"><i class="fa fa-user"></i></div>
                         <input type="text" name="city" class="form-control" id="city"
-                               placeholder="Your City" required autofocus>
+                               placeholder="Your City" required >
                     </div>
                 </div>
             </div>
@@ -109,7 +109,7 @@
                     <div class="input-group mb-2 mr-sm-2 mb-sm-0">
                         <div class="input-group-addon" style="width: 2.6rem"><i class="fa fa-user"></i></div>
                         <input type="text" name="country" class="form-control" id="country"
-                               placeholder="Your Country" required autofocus>
+                               placeholder="Your Country" required >
                     </div>
                 </div>
             </div>
@@ -152,7 +152,7 @@
                     <div class="input-group mb-2 mr-sm-2 mb-sm-0">
                         <div class="input-group-addon" style="width: 2.6rem"><i class="fa fa-user"></i></div>
                         <input type="text" name="name" class="form-control" id="name"
-                               placeholder="Your Name" required autofocus>
+                               placeholder="Your Name" required >
                     </div>
                 </div>
             </div>

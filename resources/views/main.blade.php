@@ -21,114 +21,92 @@
 
     <!-- Page Content -->
     <div class="container-fluid">
-    <div class="news">
+    <div class="section">
         <h1 class="my-4 section-title text-center">The Latest</h1>
 
-        <!-- Marketing Icons Section -->
         <div class="row">
-            <div class="col-lg-4 mb-4">
-                <div class="card h-100">
-                    <h4 class="card-header">Card Title</h4>
+            <div class="col-lg-4 col-sm-6 ">
+                <div class="card news-item">
+                    <a href="#"><img class="card-img-top img-fluid" src="http://placehold.it/700x400" alt=""></a>
                     <div class="card-block">
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
-                    </div>
-                    <div class="card-footer">
-                        <a href="#" class="btn btn-primary">Learn More</a>
+                        <a href="#" class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem!</a>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 mb-4">
-                <div class="card h-100">
-                    <h4 class="card-header">Card Title</h4>
+            <div class="col-lg-4 col-sm-6 ">
+                <div class="card news-item">
+                    <a href="#"><img class="card-img-top img-fluid" src="http://placehold.it/700x400" alt=""></a>
                     <div class="card-block">
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ipsam eos, nam perspiciatis natus commodi similique totam consectetur praesentium molestiae atque exercitationem ut consequuntur, sed eveniet, magni nostrum sint fuga.</p>
-                    </div>
-                    <div class="card-footer">
-                        <a href="#" class="btn btn-primary">Learn More</a>
+                        <a href="#" class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</a>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 mb-4">
-                <div class="card h-100">
-                    <h4 class="card-header">Card Title</h4>
+            <div class="col-lg-4 col-sm-6 ">
+                <div class="card news-item">
+                    <a href="#"><img class="card-img-top img-fluid" src="http://placehold.it/700x400" alt=""></a>
                     <div class="card-block">
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
-                    </div>
-                    <div class="card-footer">
-                        <a href="#" class="btn btn-primary">Learn More</a>
+                        <a href="#" class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos quisquam, error quod sed cumque, odio distinctio velit nostrum temporibus necessitatibus et facere atque iure perspiciatis mollitia recusandae vero vel quam!</a>
                     </div>
                 </div>
             </div>
-        </div>
-        <!-- /.row -->
-        <div class="text-center"> 
-         <a href="#" class="btn btn-lg  btn-primary ">Show More</a>
-         </div>
-        </div>
-                    <hr class="my-4">
+          
+            </div>
+              <div class="text-center ">
+                <button type="button" class="btn btn-primary btn-lg show-more-btn">More News</button>
+            </div>
+            </div>
+        <!-- Marketing Icons Section -->
+       
+        <hr class="my-4">
 
         <!-- Portfolio Section -->
-        <div class="researchs">
-        <h2>Portfolio Heading</h2>
-
+        <div class="section ">
+        <h1 class="my-4 section-title text-center">Researchs</h1>
+  <!-- Marketing Icons Section -->
         <div class="row">
-            <div class="col-lg-4 col-sm-6 portfolio-item">
-                <div class="card h-100">
-                    <a href="#"><img class="card-img-top img-fluid" src="http://placehold.it/700x400" alt=""></a>
+            <div class="col-lg-4 mb-4">
+                <div class="card research-card">
+                    <h4 class="card-header">Research Title</h4>
                     <div class="card-block">
-                        <h4 class="card-title"><a href="#">Project One</a></h4>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem!</p>
+                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
+                        <p class="RN">Researcher Name.</p>
+                    </div>
+                    <div class="card-footer text-center ">
+                        <a href="#" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6 portfolio-item">
-                <div class="card h-100">
-                    <a href="#"><img class="card-img-top img-fluid" src="http://placehold.it/700x400" alt=""></a>
+            <div class="col-lg-4 mb-4">
+                <div class="card research-card">
+                    <h4 class="card-header">Research Title</h4>
                     <div class="card-block">
-                        <h4 class="card-title"><a href="#">Project Two</a></h4>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ipsam eos, nam perspiciatis natus commodi similique totam consectetur praesentium molestiae atque exercitationem ut consequuntur, sed eveniet, magni nostrum sint fuga.</p>
+                        <p class="RN">Researcher Name.</p>
+
+                    </div>
+                    <div class="card-footer text-center ">
+                        <a href="#" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6 portfolio-item">
-                <div class="card h-100">
-                    <a href="#"><img class="card-img-top img-fluid" src="http://placehold.it/700x400" alt=""></a>
+            <div class="col-lg-4 mb-4">
+                <div class="card research-card">
+                    <h4 class="card-header">Research Title</h4>
                     <div class="card-block">
-                        <h4 class="card-title"><a href="#">Project Three</a></h4>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos quisquam, error quod sed cumque, odio distinctio velit nostrum temporibus necessitatibus et facere atque iure perspiciatis mollitia recusandae vero vel quam!</p>
+                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
+                        <p class="RN">Researcher Name.</p>
+
                     </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-6 portfolio-item">
-                <div class="card h-100">
-                    <a href="#"><img class="card-img-top img-fluid" src="http://placehold.it/700x400" alt=""></a>
-                    <div class="card-block">
-                        <h4 class="card-title"><a href="#">Project Four</a></h4>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-6 portfolio-item">
-                <div class="card h-100">
-                    <a href="#"><img class="card-img-top img-fluid" src="http://placehold.it/700x400" alt=""></a>
-                    <div class="card-block">
-                        <h4 class="card-title"><a href="#">Project Five</a></h4>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-6 portfolio-item">
-                <div class="card h-100">
-                    <a href="#"><img class="card-img-top img-fluid" src="http://placehold.it/700x400" alt=""></a>
-                    <div class="card-block">
-                        <h4 class="card-title"><a href="#">Project Six</a></h4>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque earum nostrum suscipit ducimus nihil provident, perferendis rem illo, voluptate atque, sit eius in voluptates, nemo repellat fugiat excepturi! Nemo, esse.</p>
+                    <div class="card-footer text-center ">
+                        <a href="#" class="btn  btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>
         </div>
         <!-- /.row -->
+
         </div>
+                    <hr class="my-4">
 
         <!-- Features Section -->
         <div class="row">

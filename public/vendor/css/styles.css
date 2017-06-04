@@ -16,7 +16,7 @@ footer{
 		padding: 0 75px;
 }
 .navbar{
-		z-index: 3;
+		z-index: 99;
 		padding-top: 17px;
 		padding-bottom: 17px;
 		position: fixed;
@@ -43,10 +43,11 @@ footer{
 		border-radius: 0;
 		padding-bottom: 0px;
 		margin-bottom: 0px;
+		text-align: center;
 }
 .title{
 		color: #fdf092;
-		padding-top: 110px;
+		padding-top: 90px;
 
 }
 .my-4{
@@ -58,11 +59,11 @@ footer{
 }
 .bv{
 		padding: 14px 80px;
-		background-color: rgba(255,255,255,0);
+		background-color: rgba(26, 176, 139, 0.52);
 		border: 5px solid #1ab08b;
 		width: 300px;
 		display: inline-block !important;
-		color: #1ab08b;
+		color: white;
 }
 .bv:hover{
 		padding: 14px 80px;
@@ -76,20 +77,20 @@ footer{
 }
 .donate-btn{
 		margin-left: 30px;
-		background-color: #fdf092;
+		background-color:rgba(253, 240, 146, 0.54);
 		border-color: #fdf092;
 		height: auto;
 		width: 300px;
 		padding: 14px 80px;
-    color: #4a464c;
+    color: white;
 		border: 5px solid #fdf092;
 
 }
 .donate-btn:hover{
 		margin-left: 30px;
-		background-color: rgba(255,255,255,0);;
+		background-color: #fdf092;
 		border-color: #fdf092;
-    color: #fdf092;
+    color: #333;
 		border: 5px solid #fdf092;
 
 }
@@ -157,8 +158,8 @@ footer{
 
 }
 
-.news{
-		height: 100vh;
+.section {
+		min-height: 100vh;
 		padding-top: 1px;
 }
 .section-title{
@@ -168,4 +169,41 @@ footer{
 }
 .researchs{
 	
+}
+.research-card{
+	height: 400px;
+}
+.RN{
+	font-size: 13px;
+	color: #777;
+}
+.news-item{
+	height: 400px ;
+	border: 0px;
+
+}
+.card-text{
+	color: #1ab08b;
+}
+.news-item > .card-block{
+		padding: 3px 4px !important;
+
+}
+.news-title{
+	color: #1ab08b !important;
+}
+.show-more-btn{
+		margin-top: 40px;
+		padding-right: 80px;
+		padding-left: 80px;
+		background-color: #1ab08b;
+		border: 5px solid #1ab08b;
+		display: inline-block !important;
+		color: white;
+		border: 0px solid #1ab08b;
+		cursor: pointer;
+
+}
+.show-more-btn:hover{
+		background-color: rgba(26, 176, 139, 0.82);;		
 }
