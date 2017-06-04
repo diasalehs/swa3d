@@ -6,18 +6,15 @@ use Illuminate\Foundation\Auth\User as Authenticatable;
 //ind res inst one to one
 class User extends Authenticatable
 {
-
-    public function institute(){
-        return $this->hasone('institute');
-    }
-    public function Researcher(){
-        return $this->hasone('Researcher');
-    }
-    public function Individuals(){
-        return $this->hasone('Individuals');
-    }
-    
-
+    // public function institute(){
+    //     return $this->hasone('institute');
+    // }
+    // public function Researcher(){
+    //     return $this->hasone('Researcher');
+    // }
+    // public function Individuals(){
+    //     return $this->hasone('Individuals');
+    // }
     /**
      * The attributes that are mass assignable.
      *
